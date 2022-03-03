@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+    background-color:rgb(1, 73, 66);
+
+}
+.hi
+{
+color:  lightslategray;
+font-size: 23px;
+}
+
+#heading
+{
+    color: aqua;
+}
+
+#camera
+{
+    height: 300px;
+
+}
